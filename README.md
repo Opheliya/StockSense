@@ -1,4 +1,4 @@
-# 📦 StockSense — Advanced Inventory Management System (IMS)
+# StockSense — Advanced Inventory Management System (IMS)
 
 StockSense is a responsive, full-stack data-driven Inventory Management System designed to track enterprise warehouse logistics, product catalogs, automated stock updates, and live data movements.
 
@@ -7,33 +7,33 @@ StockSense is a responsive, full-stack data-driven Inventory Management System d
 
 ---
 
-## 🚀 Key System Capabilities
+## Key System Capabilities
 
 The interface addresses all critical operational inventory flows requested in the system criteria:
 
-### 🔐 1. Authentication & Security Gateway
+### 1. Authentication & Security Gateway
 * **Interactive Access Portal:** Includes a responsive login dashboard framework mapping out modern UI elements.
 * **Security Redirection Recovery:** Features a simulated OTP token retrieval path for system entry recovery.
 
-### 📊 2. Dynamic KPI Dashboard Engine
+### 2. Dynamic KPI Dashboard Engine
 * **Real-Time Counters:** Actively loops and summarizes systemic calculations for:
   * Total Distinct Active Products / SKU Catalogs
   * Alert Indicators for Low-Stock Quantities
   * Impending Inbound Receipts & Pending Delivery Orders
 * **Granular Data Constraints:** Implements cascading filtering parameters by Document Type, Pipeline Status, Warehouse Origin, and Product Classification.
 
-### 🔄 3. Multi-Tier Warehouse Operations
+### 3. Multi-Tier Warehouse Operations
 * **Inbound Receipts Processing:** Validating a raw structural receipt directly updates inventory volume state maps.
 * **Outbound Deliveries Tracking:** Processing transactional delivery parameters safely reduces systemic stock logs.
 * **Internal Stock Corrections:** Direct structural adjustments allow for real-time warehouse counts audit checks.
 
-### 📜 4. Comprehensive Action Ledger & History Storage
+### 4. Comprehensive Action Ledger & History Storage
 * **Audited Move Logging:** Chronologically displays sequential location transfers, item metrics, and timestamp data.
 * **Multi-Stage Deletion Queue (Trash Bin):** Moving history items drops logs into a localized storage Trash Bin state container first, shielding operational metrics against accidental permanent deletion data loss.
 
 ---
 
-## 🛠️ Architecture & Tech Stack
+## Architecture & Tech Stack
 
 The software application utilizes a decoupled configuration pipeline for fast compilation and lightweight rendering speeds:
 
@@ -45,7 +45,7 @@ The software application utilizes a decoupled configuration pipeline for fast co
 
 ---
 
-## 📂 Codebase File Structure
+## Codebase File Structure
 
 ```text
 StockSense/
@@ -63,7 +63,7 @@ StockSense/
 
 ---
 
-## 🏃‍♂️ Quickstart Guide for Judges (Local Installation)
+## Quickstart Guide for Judges (Local Installation)
 
 To test the application files inside a local testing computer terminal block pipeline structure:
 
